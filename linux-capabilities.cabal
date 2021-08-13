@@ -1,4 +1,4 @@
-cabal-version:       2.4
+cabal-version:       1.12
 name:                linux-capabilities
 version:             0.1.0.0
 synopsis:            Linux capabilities Haskell data type
